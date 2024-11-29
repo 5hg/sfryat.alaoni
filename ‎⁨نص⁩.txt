@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="ar">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>سفريات العوني</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>مرحبًا بكم في سفريات العوني</h1>
+    </header>
+    <section>
+        <h2>وجهاتنا</h2>
+        <p>نقل آمن وموثوق إلى جميع الوجهات: حلب، إدلب، عفرين، وغيرها.</p>
+    </section>
+    <footer>
+        <p>للحجز والاستفسار: <a href="https://wa.me/+963948398868">اتصل بنا عبر واتساب</a></p>
+    </footer>
+    <script src="scripts.js"></script>
+</body>
+</html>
